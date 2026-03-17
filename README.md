@@ -68,5 +68,3 @@ The dataset includes customer attributes such as:
 * Applied **probability concepts (marginal, conditional, joint)** in real-world analysis
 * Derived **data-driven customer profiles**
 * Translated analysis into **clear business recommendations**
-
-If you found this useful, feel free to explore the notebook and share feedback!
